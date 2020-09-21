@@ -5,7 +5,7 @@ let usersMass = [//Start users in phone book ()
 
   {
     id:"1",
-    name:"Vas",
+    name:"Vasya",
     number:"+380993747271",
     email:"asd@asd.com"
   },
