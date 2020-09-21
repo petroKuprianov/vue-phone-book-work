@@ -1,5 +1,7 @@
 # vue-phone-book
 
+Deployed on - https://vue-phone-book.herokuapp.com/#/
+
 ## Project setup
 ```
 npm install
